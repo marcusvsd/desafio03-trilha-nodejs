@@ -14,7 +14,6 @@
  <a href="#-sobre">Sobre</a> •
  <a href="#-features">Features</a> •
  <a href="#-rotas">Rotas</a> •
- <a href="#-middlewares-da-aplicação">Middlewares da Aplicação</a> •
  <a href="#-específicação-dos-testes">Especificação dos Testes</a> •
  <a href="#-autor">Autor</a>
 </p>
